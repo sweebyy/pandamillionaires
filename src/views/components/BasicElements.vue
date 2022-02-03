@@ -18,18 +18,23 @@
 
 
       <!-- ################# -->
+      
+    <br> <h1 class="display-2 text-center">F.A.Q.</h1><br>
+
+    <div class="row justify-content-center" id="faqRow">
+      <div class="col-lg-5 faqDiv">
+        <img class="slide-right-effect" src="img/brand/red-panda-vector.png"/>
+      </div>
+      <div class="col-lg-5 faqDiv">
+          <Faq/>
+      </div>
+    </div>
 
 
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-12">
 
-          <br>
-
-          <h1 class="display-2 text-center">F.A.Q.</h1>
-          <Faq/>
-
-          <br>
           <!-- Button colors -->
           <div class="mb-3 mt-5">
             <small class="text-uppercase font-weight-bold"
@@ -90,6 +95,23 @@
           'Faq': Faq
       }
   };
+
+  function BasicElementsReveal() {
+    
+    var reveals = document.querySelectorAll(".slide-right-effect");
+
+    for (var i = 0; i < reveals.length; i++) {
+        var windowHeight = window.innerHeight;
+        var elementTop = reveals[i].getBoundingClientRect().top;
+        var elementVisible = 50;
+
+        if (elementTop < windowHeight - elementVisible) {
+        reveals[i].classList.add("active");
+        }
+    }
+}
+  
+window.addEventListener("scroll", BasicElementsReveal);
 </script>
 <style>
 </style>

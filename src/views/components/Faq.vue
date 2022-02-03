@@ -1,12 +1,12 @@
 <template>
   <div id="faq" class="row justify-content-center">
-    <div class="col-lg-10">
+    <div class="col-lg-12">
       <div class="accordion-menu">
         <ul>
           <li class="toFlip">
             <input type="checkbox" checked />
             <i class="arrow"></i>
-            <h2><i class="fa fa-question"></i>What is Panda Millionaires?</h2>
+            <h2><i class="fa fa-paw"></i>What is Panda Millionaires?</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -20,7 +20,7 @@
             <input type="checkbox" checked />
             <i class="arrow"></i>
             <h2>
-              <i class="fa fa-question"></i>Is it a derivative of Meerkats
+              <i class="fa fa-paw"></i>Is it a derivative of Meerkats
               Millionaires?
             </h2>
             <p>
@@ -35,7 +35,7 @@
           <li class="toFlip">
             <input type="checkbox" checked />
             <i class="arrow"></i>
-            <h2><i class="fa fa-question"></i>What is the benefit for you?</h2>
+            <h2><i class="fa fa-paw"></i>What is the benefit for you?</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -48,7 +48,7 @@
           <li class="toFlip">
             <input type="checkbox" checked />
             <i class="arrow"></i>
-            <h2><i class="fa fa-question"></i>Wen?</h2>
+            <h2><i class="fa fa-paw"></i>Wen?</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
