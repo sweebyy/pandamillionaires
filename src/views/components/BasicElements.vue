@@ -10,9 +10,8 @@
       </div>
       <div class="col-lg-5" id="roadmap-images">
 
-          <div>
-            <img src="img/brand/roadmap-1.png" height="324"/>
-          </div>
+          <img id="first-image" src="img/brand/roadmap-1.png" />
+          <img id="second-image" src="img/brand/roadmap-2.png"/>
 
       </div>
   </div>

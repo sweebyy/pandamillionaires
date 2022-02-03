@@ -213,10 +213,40 @@ p {
 		}
 	}
 }
+
 }
 
-
 /***** IMAGES *****/
-.roadmap-images{
+#roadmap-images{
+    display: flex;
+    width: 100%;
+
+    justify-content: center;
+    align-items: center;
     
+}
+
+#roadmap-images img{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    height: 324px;
+    margin: 24px 0px;
+}
+
+@media (max-width: 1535px) {
+    #roadmap-images img{
+        height: 256px;
+    }
+}
+
+@media (max-width: 676px) {
+    #roadmap-images img{
+        height: 212px;
+    }
+}
+
+#first-image{
+    transform: rotate(-10deg);
+}
+#second-image{
+    transform: rotate(10deg);
 }
