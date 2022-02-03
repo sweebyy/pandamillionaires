@@ -6,7 +6,7 @@
           <div class="timeline-icon">
             <i class="fa fa-pencil" aria-hidden="true"></i>
           </div>
-          <div class="timeline-body">
+          <div class="timeline-body toReveal">
             <h4 class="timeline-title"><span class="badge">Art Generation</span></h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
@@ -21,7 +21,7 @@
           <div class="timeline-icon">
             <i class="fa fa-code" aria-hidden="true"></i>
           </div>
-          <div class="timeline-body">
+          <div class="timeline-body toReveal">
             <h4 class="timeline-title"><span class="badge">Candy Machine</span></h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
@@ -36,7 +36,7 @@
           <div class="timeline-icon">
             <i class="fa fa-book" aria-hidden="true"></i>
           </div>
-          <div class="timeline-body">
+          <div class="timeline-body toReveal">
             <h4 class="timeline-title"><span class="badge">Launch</span></h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
@@ -51,7 +51,7 @@
           <div class="timeline-icon">
             <i class="fa fa-rocket" aria-hidden="true"></i>
           </div>
-          <div class="timeline-body">
+          <div class="timeline-body toReveal">
             <h4 class="timeline-title"><span class="badge">Secondary Listing</span></h4>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam

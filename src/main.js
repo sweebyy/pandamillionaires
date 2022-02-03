@@ -20,6 +20,7 @@ import App from "./App.vue";
 import router from "./router";
 import Argon from "./plugins/argon-kit";
 import './registerServiceWorker';
+import './roadmap';
 import VueFlicking from "@egjs/vue-flicking";
 import "@egjs/vue-flicking/dist/flicking.css";
 import vuetify from './plugins/vuetify'
