@@ -1,0 +1,39 @@
+@media (min-width: 1535px) {
+    #rarity .col-md-3{
+        max-width: 20%;
+    }
+}
+
+@media (max-width: 768px) {
+    #rarity ul{
+        display: block;
+    }
+
+    #rarity li{
+        display: flex;
+        justify-content: center;
+        padding: 4px;
+    }
+
+    #rarity li a{
+        width: 350px;
+    }
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff !important;
+    background-color: #ee7c19 !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link:hover {
+    color: #fff !important;
+}
+
+.nav-pills .nav-link {
+    color: #ee7c19 !important;
+}
+
+.nav-pills .nav-link:hover div{
+    transform: scale(1.10);
+    transition-duration: 0.5s;
+}
