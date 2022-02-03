@@ -15,6 +15,8 @@
 
       </div>
   </div>
+
+
       <!-- ################# -->
 
 
@@ -22,33 +24,12 @@
       <div class="row justify-content-center">
         <div class="col-lg-12">
 
-          
+          <br>
 
-          <!-- Buttons -->
-          <h3 class="h4 text-success font-weight-bold mb-4">Buttons</h3>
-          <!-- Button styles -->
-          <div>
-            <base-button type="primary">Button</base-button>
-            <base-button class="btn-3" type="primary" icon="ni ni-bag-17"
-              >Button</base-button
-            >
-            <base-button
-              class="btn-2"
-              type="primary"
-              icon="ni ni-bag-17"
-            ></base-button>
+          <h1 class="display-2 text-center">F.A.Q.</h1>
+          <Faq/>
 
-            <!-- Button wizes -->
-            <div class="mb-3 mt-5">
-              <small class="text-uppercase font-weight-bold"
-                >Pick your size</small
-              >
-            </div>
-
-            <base-button type="primary" size="sm">Small</base-button>
-            <base-button type="primary">Regular</base-button>
-            <base-button type="primary" size="lg">Large Button</base-button>
-          </div>
+          <br>
           <!-- Button colors -->
           <div class="mb-3 mt-5">
             <small class="text-uppercase font-weight-bold"
@@ -101,10 +82,12 @@
 </template>
 <script>
   import Roadmap from './Roadmap.vue';
+  import Faq from './Faq.vue'
 
   export default {
       components: {
-          'Roadmap': Roadmap
+          'Roadmap': Roadmap,
+          'Faq': Faq
       }
   };
 </script>
