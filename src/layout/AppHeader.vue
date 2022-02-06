@@ -14,7 +14,7 @@
                 </div>
             </div>
 
-            <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
+            <ul class="navbar-nav navbar-nav-hover align-items-lg-center" style="margin-left:35px;">
                 <router-link to="/landing" class="btn btn-link navbar-text-default">Roadmap</router-link>
                 <router-link to="/landing" class="btn btn-link navbar-text-default">FAQ</router-link>
                 <router-link to="/landing" class="btn btn-link navbar-text-default">Rarity</router-link>
