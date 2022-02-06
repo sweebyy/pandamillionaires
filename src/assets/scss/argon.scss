@@ -104,6 +104,10 @@
 @import "custom/vendor/headroom.scss";
 @import "custom/vendor/nouislider.scss";
 
+html {
+scroll-behavior: smooth;
+}
+
 nav .container {
     -webkit-animation: nav-appear 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	        animation: nav-appear 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;

@@ -1,11 +1,11 @@
 <template>
-  <section class="section section-components pb-0" id="section-components">
-    <div class="section-title">
+  <section class="section section-components pb-0" id="section-components" style="padding-top: 0;">
+    <div class="section-title" id="RoadmapTitle">
       <h1 class="display-2 text-center">Roadmap</h1>
     </div>
     <!-- Timeline -->
 
-    <div class="row justify-content-center">
+    <div class="row justify-content-center"  id="faqRow">
       <div class="col-lg-5">
         <Roadmap />
       </div>
@@ -18,7 +18,7 @@
     <!-- ################# -->
 
     <div class="section-title">
-      <h1 class="display-2 text-center">F.A.Q.</h1>
+      <h1 class="display-2 text-center" id="FaqTitle">F.A.Q.</h1>
     </div>
 
     <div class="row justify-content-center" id="faqRow">
@@ -31,7 +31,7 @@
     </div>
 
     <div class="section-title">
-      <h1 class="display-2 text-center">Rarity</h1>
+      <h1 class="display-2 text-center" id="RarityTitle">Rarity</h1>
     </div>
 
     <div class="row justify-content-center" id="rarityRow">
@@ -41,10 +41,10 @@
     </div>
 
     <div class="section-title">
-      <h1 class="display-2 text-center">Team</h1>
+      <h1 class="display-2 text-center" id="TeamTitle">Team</h1>
     </div>
 
-    <div class="row justify-content-center" id="rarityRow">
+    <div class="row justify-content-center" id="teamRow">
       <div class="col-lg-12">
         <Team />
       </div>

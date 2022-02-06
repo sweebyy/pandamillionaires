@@ -15,10 +15,10 @@
             </div>
 
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center" style="margin-left:35px;">
-                <router-link to="/landing" class="btn btn-link navbar-text-default">Roadmap</router-link>
-                <router-link to="/landing" class="btn btn-link navbar-text-default">FAQ</router-link>
-                <router-link to="/landing" class="btn btn-link navbar-text-default">Rarity</router-link>
-                <router-link to="/landing" class="btn btn-link navbar-text-default">Team</router-link>
+                <router-link to="#RoadmapTitle" class="btn btn-link navbar-text-default">Roadmap</router-link>
+                <router-link to="#FaqTitle" class="btn btn-link navbar-text-default">FAQ</router-link>
+                <router-link to="#RarityTitle" class="btn btn-link navbar-text-default">Rarity</router-link>
+                <router-link to="#TeamTitle" class="btn btn-link navbar-text-default">Team</router-link>
             </ul>
 
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
@@ -54,6 +54,7 @@ export default {
     BaseDropdown
   }
 };
+
 </script>
 <style>
 
