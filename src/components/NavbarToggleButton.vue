@@ -1,8 +1,5 @@
 <template>
-    <button class="navbar-toggler" type="button"
-            data-toggle="collapse"
-            :data-target="target"
-            :aria-controls="target"
+    <button class="navbar-toggler" type="button" id="navbarTogglerButton"
             :aria-expanded="toggled"
             aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

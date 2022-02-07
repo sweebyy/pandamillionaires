@@ -13,7 +13,6 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Heebo:100,300,400,500,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
@@ -26,5 +25,25 @@
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
+    <script>
+      
+
+
+    window.onload=function(){
+      var togglerButton = document.getElementById("navbarTogglerButton").addEventListener('click', function (event) {
+          
+          var collapsable = document.getElementById("navbarCollapsable");
+          collapsable.classList.add("show");
+
+      });
+
+      var closer = document.getElementById("collapseCloser").addEventListener('click', function (event) {
+          
+          var collapsable = document.getElementById("navbarCollapsable");
+          collapsable.classList.remove("show");
+
+      });
+    }
+    </script>
   </body>
 </html>

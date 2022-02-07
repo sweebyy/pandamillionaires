@@ -6,7 +6,7 @@
                 <img src="https://img.freepik.com/free-photo/portrait-handsome-young-man-makes-okay-gesture-demonstrates-agreement-likes-idea-smiles-happily-wears-optical-glasses-yellow-hat-t-shirt-models-indoor-its-fine-thank-you-hand-sign_273609-30676.jpg?size=626&ext=jpg" alt="">
             </div>
             <div class="team-content">
-                <h2><code>r.Oguz</code></br>
+                <h2><code>r.Oguz</code><br>
                 <span><code>Developper</code></span></h2>
                 <section class="sticky">
                     <div class="flyingNumbers">
@@ -30,7 +30,7 @@
                 <img src="https://image.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg" alt="">
             </div>
             <div class="team-content">
-                <h2>YorzDraw</br>
+                <h2>YorzDraw<br>
                 <span>Art Designer</span></h2>
                 <section class="sticky">
                     <div class="bubbles">
@@ -54,7 +54,7 @@
                 <img src="https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg" alt="">
             </div>
             <div class="team-content">
-                <h2>Xtelor</br>
+                <h2>Xtelor<br>
                 <span>Investor</span></h2>
                 <section class="sticky">
                     <div class="flyingDollars">
@@ -117,7 +117,7 @@
                 <img src="https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg" alt="">
             </div>
             <div class="team-content">
-                <h2>rom1.</br>
+                <h2>rom1.<br>
                 <span>Marketing & Investor</span></h2>
                 <section class="sticky">
                     <div class="flyingCharts">
