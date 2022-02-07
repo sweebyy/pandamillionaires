@@ -1,3 +1,10 @@
+@import "./landing-links.scss";
+
+@font-face {
+    font-family: "Rooster";
+    src: local("Rooster"), url(../scss/fonts/Rooster.ttf) format("truetype");
+  }
+
 .section-hero{
     overflow: hidden;
 
@@ -13,6 +20,80 @@
     @function sample($list) {
     @return nth($list, random(length($list)));
     }
+
+
+    #pageTitle{
+        font-family: "Rooster";
+        font-size: 10rem;
+        color: #ffffff;
+
+    }
+
+    @media (max-width: 676px) {
+        #pageTitle{
+            font-size: 8rem;
+    
+        }
+    }
+
+    #pageTitleDiv{
+        text-align: center;
+
+        h1 {            
+            --x-offset: -0.0425em;
+            --y-offset: 0.0425em;
+            --stroke: 0.025em;
+            --background-color: rgb(156, 51, 9);
+            --stroke-color: rgb(66, 56, 33);
+            
+            text-shadow: 
+              
+              var(--x-offset)
+              var(--y-offset)
+              0px
+              var(--background-color), 
+              
+              calc( var(--x-offset) - var(--stroke) )
+              calc( var(--y-offset) + var(--stroke) )
+              0px
+              var(--stroke-color);
+            
+          }
+
+          @supports ( text-shadow: 1px 1px 1px 1px black ) {
+            h1 {
+              text-shadow:
+                
+                var(--x-offset)
+                var(--y-offset)
+                0px
+                0px
+                var(--background-color), 
+                
+                var(--x-offset) 
+                var(--y-offset)
+                var(--stroke)
+                0px
+                var(--stroke-color);
+              
+            }
+          }
+    }
+
+    #socialMediaLink a{
+        padding: 24px;
+
+        filter: drop-shadow(-4px 4px rgba(0, 0, 0, 0.50));
+    }
+
+    #socialMediaLink a:nth-child(1){
+        color: #5865F2;
+    }
+
+    #socialMediaLink a:nth-child(2){
+        color: #00ACEE;
+    }
+
 
     .bubbles {
     position: relative;
