@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100');
+
+@font-face {
+    font-family: "Rooster";
+    src: local("Rooster"), url(../scss/fonts/Rooster.ttf) format("truetype");
+  }
+
+
+@mixin button($bcolor,
+$url,
+$x1,
+$y1,
+$bor,
+$col) {
+ background: $bcolor;
+ -webkit-mask: url($url);
+ mask: url($url);
+ -webkit-mask-size: $x1 $y1;
+ mask-size: $x1 $y1;
+ border: $bor;
+ color: $col;
+}
+
+.button-container-1 {            
+    --x-offset: -0.0625em;
+    --y-offset: 0.0625em;
+    --stroke: 0.025em;
+    --background-color: rgb(156, 51, 9);
+    --stroke-color: rgb(66, 56, 33);
+    
+    text-shadow: 
+        
+        var(--x-offset)
+        var(--y-offset)
+        0px
+        var(--background-color), 
+        
+        calc( var(--x-offset) - var(--stroke) )
+        calc( var(--y-offset) + var(--stroke) )
+        0px
+        var(--stroke-color);
+    
+    }
+
+    @supports ( text-shadow: 1px 1px 1px 1px black ) {
+    .button-container-1 {
+        text-shadow:
+        
+        var(--x-offset)
+        var(--y-offset)
+        0px
+        0px
+        var(--background-color), 
+        
+        var(--x-offset) 
+        var(--y-offset)
+        var(--stroke)
+        0px
+        var(--stroke-color);
+        
+    }
+    }
+
+.button-container-1 {
+ position: relative;
+ width: 278px;
+ height: 50px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 12px;
+ overflow: hidden;
+ border: 1px solid #000;
+ font-weight: 500;
+ font-size: 1.75rem;
+ transition: 0.5s;
+ letter-spacing: 1px;
+border-radius: 8px;
+font-family: "Rooster";
+
+ button {
+  width: 101%;
+  height: 100%;
+  font-weight: 500;
+  font-size: 1.75rem;
+  letter-spacing: 1px;
+
+  @include button(#000,
+  "https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png",
+  2300%,
+  100%,
+  none,
+  #fff);
+  cursor: pointer;
+  -webkit-animation: ani2 0.7s steps(22) forwards;
+  animation: ani2 0.7s steps(22) forwards;
+
+  &:hover {
+   -webkit-animation: ani 0.7s steps(22) forwards;
+   animation: ani 0.7s steps(22) forwards;
+  }
+ }
+}
+
+
+.mas {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 101%;
+    font-weight: 500;
+    position: absolute;
+    font-size: 1.75rem;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    overflow: hidden;
+
+}
+
+#work {            
+    --x-offset: -0.0825em;
+    --y-offset: 0.0825em;
+    --stroke: 0.025em;
+    --background-color: rgb(156, 51, 9);
+    --stroke-color: rgb(66, 56, 33);
+    
+    text-shadow: 
+        
+        var(--x-offset)
+        var(--y-offset)
+        0px
+        var(--background-color), 
+        
+        calc( var(--x-offset) - var(--stroke) )
+        calc( var(--y-offset) + var(--stroke) )
+        0px
+        var(--stroke-color);
+    
+    }
+
+    @supports ( text-shadow: 1px 1px 1px 1px black ) {
+    #work {
+        text-shadow:
+        
+        var(--x-offset)
+        var(--y-offset)
+        0px
+        0px
+        var(--background-color), 
+        
+        var(--x-offset) 
+        var(--y-offset)
+        var(--stroke)
+        0px
+        var(--stroke-color);
+        
+    }
+    }
+
+@-webkit-keyframes ani {
+ from {
+  -webkit-mask-position: 0 0;
+  mask-position: 0 0;
+ }
+
+ to {
+  -webkit-mask-position: 100% 0;
+  mask-position: 100% 0;
+ }
+}
+
+@keyframes ani {
+ from {
+  -webkit-mask-position: 0 0;
+  mask-position: 0 0;
+ }
+
+ to {
+  -webkit-mask-position: 100% 0;
+  mask-position: 100% 0;
+ }
+}
+
+@-webkit-keyframes ani2 {
+ from {
+  -webkit-mask-position: 100% 0;
+  mask-position: 100% 0;
+ }
+
+ to {
+  -webkit-mask-position: 0 0;
+  mask-position: 0 0;
+ }
+}
+
+@keyframes ani2 {
+ from {
+  -webkit-mask-position: 100% 0;
+  mask-position: 100% 0;
+ }
+
+ to {
+  -webkit-mask-position: 0 0;
+  mask-position: 0 0;
+ }
+}
+
+a{
+	color:#00ff95;
+}
+
+.button-container-3 {
+ position: relative;
+ width: 100px;
+ height: 50px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 8vh;
+ overflow: hidden;
+ border: 1px solid #000;
+ font-family: 'Lato', sans-serif;
+ font-weight: 500;
+ transition: 0.5s;
+ letter-spacing: 1px;
+ border-radius: 8px;
+
+ button {
+  width: 101%;
+  height: 100%;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  font-size: 1.75rem;
+  letter-spacing: 1px;
+
+
+  @include button(#000, "https://raw.githubusercontent.com/pizza3/asset/master/natureSmaller.png",
+  7100%,
+  100%,
+  none,
+  #fff);
+  cursor: pointer;
+  -webkit-animation: ani2 0.7s steps(70) forwards;
+  animation: ani2 0.7s steps(70) forwards;
+
+  &:hover {
+   -webkit-animation: ani 0.7s steps(70) forwards;
+   animation: ani 0.7s steps(70) forwards;
+  }
+ }
+}
