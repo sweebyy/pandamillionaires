@@ -123,6 +123,51 @@ p {
 
                     color: white;
                 }
+
+                .badge  {      
+                    font-family: "Rooster";
+                    font-size: 1.25rem !important;
+                    letter-spacing: 0.2rem;
+                    /*color: #ee7c19 !important;*/
+                    
+                    --x-offset: -0.086em;
+                    --y-offset: 0.086em;
+                    --stroke: 0.03em;
+                    --background-color: rgb(156, 51, 9);
+                    --stroke-color: rgb(66, 56, 33);
+                    
+                    text-shadow: 
+                        
+                        var(--x-offset)
+                        var(--y-offset)
+                        0px
+                        var(--background-color), 
+                        
+                        calc( var(--x-offset) - var(--stroke) )
+                        calc( var(--y-offset) + var(--stroke) )
+                        0px
+                        var(--stroke-color);
+                    
+                    }
+                
+                    @supports ( text-shadow: 1px 1px 1px 1px black ) {
+                    .badge  {
+                        text-shadow:
+                        
+                        var(--x-offset)
+                        var(--y-offset)
+                        0px
+                        0px
+                        var(--background-color), 
+                        
+                        var(--x-offset) 
+                        var(--y-offset)
+                        var(--stroke)
+                        0px
+                        var(--stroke-color);
+                        
+                    }
+                    }
             }
 
             .timeline-subtitle {
@@ -308,3 +353,5 @@ p {
     animation: fade-bottom 1s ease-in;
     opacity: 1;
 }
+
+
