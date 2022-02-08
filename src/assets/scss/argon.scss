@@ -69,6 +69,8 @@
 @import "./rarity.scss";
 @import "./team.scss";
 @import "./hero.scss";
+@import "./basicElements.scss";
+@import "./customNavbar.scss";
 
 @import "custom/reboot.scss";
 @import "custom/global.scss";
@@ -165,16 +167,22 @@ nav .container {
 
 @media only screen and (max-width: 991px) {
     .navbar-text-default{
-        color: #203b69 !important;
-        text-align: left;
+        color: #ef8331  !important;
+        text-align: center;
     }
     .navbar-text-default:hover{
-        color: #0b1526 !important;
+        color: #975523 !important;
         transform: scale(1);
     }
 
     .navbar-nav .nav-link-icon{
         padding-right: 1.25rem;
         padding-left: 1.25rem;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 0.625rem 0;
+        color: #ef8331 !important;
+        text-align: center;
     }
 }

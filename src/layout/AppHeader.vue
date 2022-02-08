@@ -2,7 +2,7 @@
     <header class="header-global">
         <base-nav class="navbar-main" transparent type="" effect="light" expand>
             <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
-                <img src="img/brand/logo.png" alt="logo">
+                <img src="img/brand/logo2.png" alt="logo">
             </router-link>
 
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
@@ -14,7 +14,7 @@
                 </div>
             </div>
 
-            <ul class="navbar-nav navbar-nav-hover align-items-lg-center" style="margin-left:35px;">
+            <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
                 <router-link to="#RoadmapTitle" class="btn btn-link navbar-text-default">Roadmap</router-link>
                 <router-link to="#FaqTitle" class="btn btn-link navbar-text-default">FAQ</router-link>
                 <router-link to="#RarityTitle" class="btn btn-link navbar-text-default">Rarity</router-link>

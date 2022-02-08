@@ -90,7 +90,4 @@ window.addEventListener("scroll", BasicElementsReveal);
   margin-bottom: 24px;
 }
 
-.section-title .text-center{
-  color: #ee7c19 !important;
-}
 </style>
