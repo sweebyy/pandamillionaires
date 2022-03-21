@@ -246,44 +246,74 @@
                 <path
                   d="M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683zM7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5zm4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5z"
                 /></svg
-              >&nbsp;&nbsp;Face
+              >&nbsp;&nbsp;Smile
             </template>
 
             <div class="row justify-content-center">
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Bad"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/smile/bad.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Cigarette"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/smile/cigarette.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Disgrundtled"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/smile/disgrundtled.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Happy"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/smile/Happy.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Lollipop"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/smile/Lollipop.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Rabbit"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/smile/rabbit.png');"
+                />
+
+                <RarityItem
+                itemName="Sad"
+                rarityPercentage="5"
+                src="background-image:url('./img/smile/sad.png');"
+                />
+
+                <RarityItem
+                itemName="Screaming"
+                rarityPercentage="5"
+                src="background-image:url('./img/smile/screaming.png');"
+                />
+
+                <RarityItem
+                itemName="Smile With Tongue"
+                rarityPercentage="5"
+                src="background-image:url('./img/smile/smile with tongue.png');"
+                />
+
+                <RarityItem
+                itemName="Vampire"
+                rarityPercentage="5"
+                src="background-image:url('./img/smile/Vampire.png');"
+                />
+
+                <RarityItem
+                itemName="Wheat"
+                rarityPercentage="5"
+                src="background-image:url('./img/smile/Wheat.png');"
                 />
             </div>
           </tab-pane>
