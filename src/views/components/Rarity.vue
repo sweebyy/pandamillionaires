@@ -199,6 +199,12 @@
                 />
 
                 <RarityItem
+                itemName="Halo"
+                rarityPercentage="5"
+                src="background-image:url('./img/hat/Halo.png');"
+                />
+
+                <RarityItem
                 itemName="Construction Helmet"
                 rarityPercentage="5"
                 src="background-image:url('./img/hat/Construction helmet.png');"
