@@ -30,7 +30,7 @@
                 <img src="https://image.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg" alt="">
             </div>
             <div class="team-content">
-                <h2>TinkerShade<br>
+                <h2>Raumas<br>
                 <span>Art Designer</span></h2>
                 <section class="sticky">
                     <div class="bubbles">
