@@ -72,6 +72,9 @@
               </div>
             </div>
 
+            <p class="lead text-white mt-4 mb-5" style="text-align: justify">
+
+            </p>
             <div class="btn-wrapper">
               <base-button
                 tag="a"
