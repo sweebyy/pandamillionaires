@@ -22,43 +22,43 @@
             <div class="row justify-content-center">
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Polo Shirt"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/PoloShirt.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Puffy Jacket"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Puffyjacket.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Roll Neck"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Rollneck.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Shirt"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Shirt.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Sleeveless Jacket"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/SlevelessJacket.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Sweater"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Sweater.png');"
                 />
 
                <RarityItem
-                itemName="Robe Type 3"
+                itemName="Tank top"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Tanktop.png');"
                 />
