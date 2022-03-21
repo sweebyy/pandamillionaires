@@ -129,7 +129,7 @@
                 <RarityItem
                 itemName="Rainbow"
                 rarityPercentage="5"
-                src="background-image:url('./img/background/Rainbow.png');"
+                src="background-image:url('./img/background/rainbow.png');"
                 />
 
                 <RarityItem
