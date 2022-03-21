@@ -72,12 +72,6 @@
               </div>
             </div>
 
-            <p class="lead text-white mt-4 mb-5" style="text-align: justify">
-              Pandamillionnaires à pour but de reverser 100% des royalties des
-              marketplaces secondaires envers sa communauté, par différents
-              systèmes notamment pour buyback le floor price, où distribuer en
-              système d’airdrop à tous les holders d’un Panda.
-            </p>
             <div class="btn-wrapper">
               <base-button
                 tag="a"
