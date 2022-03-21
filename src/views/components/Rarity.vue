@@ -24,31 +24,43 @@
                 <RarityItem
                 itemName="Robe Type 3"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/brand/PoloShirt.png');"
                 />
 
                 <RarityItem
                 itemName="Robe Type 3"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/brand/Puffyjacket.png');"
                 />
 
                 <RarityItem
                 itemName="Robe Type 3"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/brand/Rollneck.png');"
                 />
 
                 <RarityItem
                 itemName="Robe Type 3"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/brand/Shirt.png');"
                 />
 
                 <RarityItem
                 itemName="Robe Type 3"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/brand/SlevelessJacket.png');"
+                />
+
+                <RarityItem
+                itemName="Robe Type 3"
+                rarityPercentage="5"
+                src="background-image:url('./img/brand/Sweater.png');"
+                />
+
+               <RarityItem
+                itemName="Robe Type 3"
+                rarityPercentage="5"
+                src="background-image:url('./img/brand/Tanktop.png');"
                 />
             </div>
 
