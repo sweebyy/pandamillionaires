@@ -192,6 +192,12 @@
                 src="background-image:url('./img/hat/Hat.png');"
                 />
 
+               <RarityItem
+                itemName="Cheddar"
+                rarityPercentage="5"
+                src="background-image:url('./img/hat/Cheddar.png');"
+                />
+
                 <RarityItem
                 itemName="Helicopter Cap"
                 rarityPercentage="5"
