@@ -109,40 +109,47 @@
 
             <div class="row justify-content-center">
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Red"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/background/Red.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Purple"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/background/Purple.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Shade Blue"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/background/ShadeBlue.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Rainbow"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/background/Rainbow.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Shade Green"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-2.png');"
+                src="background-image:url('./img/background/ShadeGreen.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Olive"
                 rarityPercentage="5"
-                src="background-image:url('./img/brand/roadmap-1.png');"
+                src="background-image:url('./img/background/Olive.png');"
                 />
+
+                <RarityItem
+                itemName="Shade Orange"
+                rarityPercentage="5"
+                src="background-image:url('./img/background/ShadeOrange.png');"
+                />
+
             </div>
           </tab-pane>
 
