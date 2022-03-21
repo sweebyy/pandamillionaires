@@ -28,6 +28,12 @@
                 />
 
                 <RarityItem
+                itemName="BulletProof Vest"
+                rarityPercentage="5"
+                src="background-image:url('./img/brand/Bulletproof Vest.png');"
+                />
+
+                <RarityItem
                 itemName="Puffy Jacket"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Puffyjacket.png');"
@@ -37,6 +43,12 @@
                 itemName="Roll Neck"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Rollneck.png');"
+                />
+
+                <RarityItem
+                itemName="Long Sleeve Shirt"
+                rarityPercentage="5"
+                src="background-image:url('./img/brand/Long sleeve t-shirt.png');"
                 />
 
                 <RarityItem
@@ -50,6 +62,12 @@
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/SlevelessJacket.png');"
                 />
+                               
+                <RarityItem
+                itemName="Prison"
+                rarityPercentage="5"
+                src="background-image:url('./img/brand/Prison.png');"
+                />
 
                 <RarityItem
                 itemName="Sweater"
@@ -61,6 +79,12 @@
                 itemName="Tank top"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/Tanktop.png');"
+                />
+
+                <RarityItem
+                itemName="Tie Shirt"
+                rarityPercentage="5"
+                src="background-image:url('./img/brand/Tie Shirt.png');"
                 />
             </div>
 
