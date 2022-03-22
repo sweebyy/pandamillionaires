@@ -3,7 +3,7 @@
     <div class="team-container">
         <div class="box">
             <div class="imgBox">
-                <img src="https://img.freepik.com/free-photo/portrait-handsome-young-man-makes-okay-gesture-demonstrates-agreement-likes-idea-smiles-happily-wears-optical-glasses-yellow-hat-t-shirt-models-indoor-its-fine-thank-you-hand-sign_273609-30676.jpg?size=626&ext=jpg" alt="">
+                <img src="/img/Team/Enleap.png" alt="">
             </div>
             <div class="team-content">
                 <h2><code>Enleap</code><br>
