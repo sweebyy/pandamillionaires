@@ -19,7 +19,7 @@
               >&nbsp;&nbsp;Body
             </template>
 
-            <div class="row justify-content-center">
+            <div class="row justify-content-center demo rainbow">
 
                 <RarityItem
                 itemName="Polo Shirt"
