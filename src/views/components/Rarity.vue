@@ -146,7 +146,7 @@
 
                 <RarityItem
                 itemName="Shade Orange"
-                style="color:red;" rarityPercentage="5"
+                rarityPercentage="5"
                 src="background-image:url('./img/background/ShadeOrange.png');"
                 />
 
