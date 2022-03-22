@@ -19,10 +19,10 @@
               >&nbsp;&nbsp;Body
             </template>
 
-            <div class="row justify-content-center demo rainbow">
+            <div class="row justify-content-center">
 
                 <RarityItem
-                itemName="Polo Shirt"
+                itemName="Polo Shirt" class="demo rainbow"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/PoloShirt.png');"
                 />
