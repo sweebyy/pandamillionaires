@@ -27,10 +27,7 @@
                 src="background-image:url('./img/brand/PoloShirt.png');"
                 />
 
-                <RarityItem
-                itemName="BulletProof Vest" class="rarityItemPercentage"
-                rarityPercentage="5" 
-                src="background-image:url('./img/brand/Bulletproof Vest.png');"
+                <RarityItem itemName="BulletProof Vest" class="rarityItemPercentage rainbowText" rarityPercentage="5" src="background-image:url('./img/brand/Bulletproof Vest.png');"
                 />
 
                 <RarityItem
