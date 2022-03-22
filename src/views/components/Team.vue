@@ -136,10 +136,8 @@
                                 <image xlink:href="https://www.svgrepo.com/show/276318/bar-chart-marketing.svg" width="32" height="32"/>    
                             </svg>
                         </div>
-                        <div class="flyingChart">
-                            <svg width="32" height="32">       
-                                <image xlink:href="https://www.svgrepo.com/show/276318/bar-chart-marketing.svg" width="32" height="32"/>    
-                            </svg>
+                        <div class="flyingChart" src="background-image:url('./img/background/ShadeOrange.png');" width="32" height="32"/>
+    
                         </div>
                         <div class="flyingChart">
                             <svg width="32" height="32">       
