@@ -28,7 +28,7 @@
                 />
 
                 <RarityItem
-                itemName="BulletProof Vest" class="rainbowText rarityItemPercentage"
+                itemName="BulletProof Vest" class="rarityItemPercentage"
                 rarityPercentage="5" 
                 src="background-image:url('./img/brand/Bulletproof Vest.png');"
                 />
