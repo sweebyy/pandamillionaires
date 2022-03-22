@@ -51,7 +51,7 @@
         </div>
         <div class="box">
             <div class="imgBox">
-                <img src='./img/background/ShadeOrange.png' alt="">
+                <img src='/img/background/ShadeOrange.png' alt="">
             </div>
             <div class="team-content">
                 <h2>John.<br>
