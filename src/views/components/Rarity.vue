@@ -455,45 +455,45 @@
 
             <div class="row justify-content-center">
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Dressing"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/Dressing.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Injury"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/Injury.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Piercing"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/piercing.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Scarf"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/Scarf.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Septum"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/septum.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Tatoo Fuck"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/Tatoo Fuck.png');"
                 />
 
                 <RarityItem
-                itemName="Robe Type 3"
+                itemName="Bell"
                 rarityPercentage="5"
-                src="background-image:url('./img/Accessories/Tinkerbell.png');"
+                src="background-image:url('./img/Accessories/Bell.png');"
                 />
             </div>
           </tab-pane>
