@@ -27,7 +27,7 @@
         </div>
         <div class="box">
             <div class="imgBox">
-                <img src="https://image.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg" alt="">
+                <img src="/img/Team/TinkerShade.png" alt="">
             </div>
             <div class="team-content">
                 <h2>TinkerShade<br>
