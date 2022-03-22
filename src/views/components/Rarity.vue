@@ -22,14 +22,14 @@
             <div class="row justify-content-center">
 
                 <RarityItem
-                itemName="Polo Shirt" class="demo rainbow"
+                itemName="Polo Shirt"
                 rarityPercentage="5"
                 src="background-image:url('./img/brand/PoloShirt.png');"
                 />
 
                 <RarityItem
-                itemName="BulletProof Vest"
-                rarityPercentage="5"
+                itemName="BulletProof Vest" class="rainbowText rarityItemPercentage"
+                rarityPercentage="5" 
                 src="background-image:url('./img/brand/Bulletproof Vest.png');"
                 />
 
