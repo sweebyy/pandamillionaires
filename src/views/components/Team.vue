@@ -114,7 +114,7 @@
         </div>
         <div class="box">
             <div class="imgBox">
-                <img src="https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg" alt="">
+                <img src="/img/Team/Raumas.png" alt="">
             </div>
             <div class="team-content">
                 <h2>Raumas<br>
