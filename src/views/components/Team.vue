@@ -51,7 +51,7 @@
         </div>
         <div class="box">
             <div class="imgBox">
-                <img src="https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg" alt="">
+                <img src='./img/background/ShadeOrange.png' alt="">
             </div>
             <div class="team-content">
                 <h2>John.<br>
@@ -136,8 +136,10 @@
                                 <image xlink:href="https://www.svgrepo.com/show/276318/bar-chart-marketing.svg" width="32" height="32"/>    
                             </svg>
                         </div>
-                        <div class="flyingChart" src="background-image:url('./img/background/ShadeOrange.png');" width="32" height="32"/>
-    
+                        <div class="flyingChart" src="background-image:url('./img/background/ShadeOrange.png');">
+                            <svg width="32" height="32">       
+                                <image xlink:href="https://www.svgrepo.com/show/276318/bar-chart-marketing.svg" width="32" height="32"/>    
+                            </svg>
                         </div>
                         <div class="flyingChart">
                             <svg width="32" height="32">       
