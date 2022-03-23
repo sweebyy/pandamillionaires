@@ -30,8 +30,8 @@ A project that uses 100% of the royalties to build and do what the community nee
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>What is the mint price?</h2>
             <p>
-              WL Mint : <strong>6.5 Near</strong><br>
-              Public Mint : <strong>8</strong> Near
+              WL Mint : <strong>6 Near</strong><br>
+              Public Mint : <strong>7</strong> Near
             </p>
           </li>
           <li class="toFlip">
