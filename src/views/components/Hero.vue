@@ -78,7 +78,7 @@
             <div class="btn-wrapper">
               <base-button
                 tag="a"
-                href="https://twitter.com/PandamilNFT"
+                href="https://discord.gg/eK9pZBWGYc"
                 class="mb-3 mb-sm-0"
                 style="background-color: #5865f2; border-color: #5865f2"
               >
@@ -98,7 +98,7 @@
               </base-button>
               <base-button
                 tag="a"
-                href="https://discord.gg/eK9pZBWGYc"
+                href="https://twitter.com/PandamilNFT"
                 class="mb-3 mb-sm-0"
                 style="background-color: #1da1f2; border-color: #1da1f2"
               >
