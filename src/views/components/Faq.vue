@@ -30,7 +30,7 @@ A project that uses 100% of the royalties to build and do what the community nee
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>What is the mint price?</h2>
             <p>
-              WL Mint : <strong>6.5 Near</strong>
+              WL Mint : <strong>6.5 Near</strong><br>
               Public Mint : <strong>8</strong> Near
             </p>
           </li>
@@ -39,7 +39,8 @@ A project that uses 100% of the royalties to build and do what the community nee
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>When?</h2>
             <p>
- We plan to mint at the beginning of April thanks to Enleap's amazing Launchpad. The Enleap team guarantees a smooth minting experience.
+ We plan to mint at the beginning of April thanks to Enleap's amazing Launchpad.<br>
+ The Enleap team guarantees a smooth minting experience.
             </p>
           </li>
         </ul>
