@@ -17,16 +17,11 @@
             <input type="checkbox" checked />
             <i class="arrow"></i>
             <h2>
-              <i class="fa fa-paw"></i>Is it a derivative of Meerkats
-              Millionaires?
+              <i class="fa fa-paw"></i>What is the benefit for you? 
             </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur.
+If you hold at least one panda, you will benefit from the royalties that the project will generate. Stacking, floor sweep, giveaway... Everything will be determined by the DAO in order to make the most of the holders. A project that uses 100% of the royalties to build and do what the community needs and wants can really become something big. That's what we're clearly aiming for.
+
             </p>
           </li>
           <li class="toFlip">
