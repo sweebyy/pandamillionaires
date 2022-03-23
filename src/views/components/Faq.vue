@@ -20,7 +20,7 @@
               <i class="fa fa-paw"></i>What is the benefit for you? 
             </h2>
             <p>
-If you hold at least one panda, you will benefit from the royalties that the project will generate. Stacking, floor sweep, giveaway... Everything will be determined by the DAO in order to make the most of the holders.<br>
+If you hold at least one panda, you will benefit from the royalties that the project will generate. Dapp, floor sweep, giveaway... Everything will be determined by the DAO in order to make the most of the holders.<br>
 A project that uses 100% of the royalties to build and do what the community needs and wants can really become something big. That's what we're clearly aiming for.
 
             </p>
@@ -28,28 +28,18 @@ A project that uses 100% of the royalties to build and do what the community nee
           <li class="toFlip">
             <input type="checkbox" checked />
             <i class="arrow"></i>
-            <h2><i class="fa fa-paw"></i>What is the benefit for you?</h2>
+            <h2><i class="fa fa-paw"></i>What is the mint price?</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur.
-              faq
+              WL Mint : <strong>6.5 Near</strong>
+              Public Mint : <strong>8</strong> Near
             </p>
           </li>
           <li class="toFlip">
             <input type="checkbox" checked />
             <i class="arrow"></i>
-            <h2><i class="fa fa-paw"></i>Wen?</h2>
+            <h2><i class="fa fa-paw"></i>When?</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur.
+ We plan to mint at the beginning of April thanks to Enleap's amazing Launchpad. The Enleap team guarantees a smooth minting experience.
             </p>
           </li>
         </ul>
