@@ -23,7 +23,9 @@
 
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
-                    <button type="button" class="btn btn-primary">Dapp</button>
+                    <button type="button" class="btn btn-primary" style="background-color: white;
+    color: #ee7c19;
+    border-color: #ee7c19;"><i class="fa-solid fa-angles-right"></i>Dapp</button>
 
                 </li>
             </ul>
