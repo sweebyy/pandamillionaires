@@ -8,9 +8,9 @@
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>What is Panda Millionaires?</h2>
             <p>
-     Panda Millionaires is NFT series composed of 2222 hand-drawn combinations of red panda.<br>
-     Panda Millionaires is the first NFT project on near to ever give back 100% of the rewards generated from secondary market sales to the holders.<br>
-     Panda Millionaires is not only about NFT but mostly a DAO planning to build big things on Near. 
+     <strong>Panda Millionaires</strong> is NFT series composed of 2222 hand-drawn combinations of red panda.<br>
+     <strong>Panda Millionaires</strong> is the first NFT project on near to ever give back 100% of the rewards generated from secondary market sales to the holders.<br>
+     <strong>Panda Millionaires</strong> is not only about NFT but mostly a DAO planning to build big things on Near. 
             </p>
           </li>
           <li class="toFlip">
@@ -20,7 +20,8 @@
               <i class="fa fa-paw"></i>What is the benefit for you? 
             </h2>
             <p>
-If you hold at least one panda, you will benefit from the royalties that the project will generate. Stacking, floor sweep, giveaway... Everything will be determined by the DAO in order to make the most of the holders. A project that uses 100% of the royalties to build and do what the community needs and wants can really become something big. That's what we're clearly aiming for.
+If you hold at least one panda, you will benefit from the royalties that the project will generate. Stacking, floor sweep, giveaway... Everything will be determined by the DAO in order to make the most of the holders.<br>
+A project that uses 100% of the royalties to build and do what the community needs and wants can really become something big. That's what we're clearly aiming for.
 
             </p>
           </li>
