@@ -25,7 +25,7 @@
                 <li class="nav-item">
                     <button type="button" class="btn btn-primary" style="background-color: white;
     color: #ee7c19;
-    border-color: #ee7c19;"><i class="fa fa-paw"></i> Dapp</button>
+    border-color: #ee7c19;"><i class="fa fa-paw"></i> App</button>
 
                 </li>
             </ul>
