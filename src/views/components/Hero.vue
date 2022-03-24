@@ -62,7 +62,7 @@
           <div class="col-lg-7 text-center">
             <div id="brandImageWrapper">
               <img
-                src="img/brand/red-panda.png"
+                src="img/brand/pandagreen.png"
                 style="width: 420px"
                 class="img-fluid"
               />
