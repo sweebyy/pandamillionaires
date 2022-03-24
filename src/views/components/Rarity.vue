@@ -479,6 +479,12 @@
                 />
 
                 <RarityItem
+                itemName="Banana"
+                rarityPercentage="5"
+                src="background-image:url('./img/Accessories/Banana.png');"
+                />
+
+                <RarityItem
                 itemName="Septum"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/septum.png');"
