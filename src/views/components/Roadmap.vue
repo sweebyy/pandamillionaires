@@ -9,11 +9,11 @@
           <div class="timeline-body toReveal">
             <h4 class="timeline-title"><span class="badge">PHASE 1 : Building The Foundations</span></h4>
             <p>
-     Assemble a team of Developers and Community Managers ✔
+     Assemble a team of Developers and Community Managers ✔<br>
 
-     Unveiling social networks to the public ✔
+     Unveiling social networks to the public ✔<br>
 
-     Build the Discord community and reward our most loyal members ✔
+     Build the Discord community and reward our most loyal members ✔<br>
             </p>
             <p class="timeline-subtitle">Early February</p>
           </div>
