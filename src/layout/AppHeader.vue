@@ -22,7 +22,7 @@
             </ul>
 
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
-                <li class="nav-item">
+                <li class="nav-item" style="text-align: center;">
                     <button type="button" class="btn btn-primary" style="background-color: white;
     color: #ee7c19;
     border-color: #ee7c19;"><i class="fa fa-paw"></i> App</button>
