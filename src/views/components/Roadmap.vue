@@ -42,12 +42,13 @@
             <i class="fa fa-book" aria-hidden="true"></i>
           </div>
           <div class="timeline-body toReveal">
-            <h4 class="timeline-title"><span class="badge">Launch</span></h4>
+            <h4 class="timeline-title"><span class="badge">PHASE 3 : Creation of the App</span></h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              necessitatibus numquam earum ipsa fugiat veniam suscipit, officiis
-              repudiandae, eum recusandae neque dignissimos. Cum fugit
-              laboriosam culpa, repellendus esse commodi deserunt.
+         Creation of the app (upcomingnear.io)<br>
+
+         Creation of the upcomingnear's discord Bot, for the holder<br>
+
+         Marketing for the app<br>
             </p>
             <p class="timeline-subtitle">Late February</p>
           </div>
@@ -57,12 +58,15 @@
             <i class="fa fa-rocket" aria-hidden="true"></i>
           </div>
           <div class="timeline-body toReveal">
-            <h4 class="timeline-title"><span class="badge">Secondary Listing</span></h4>
+            <h4 class="timeline-title"><span class="badge">PHASE 4 : More income for our holders</span></h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              necessitatibus numquam earum ipsa fugiat veniam suscipit, officiis
-              repudiandae, eum recusandae neque dignissimos. Cum fugit
-              laboriosam culpa, repellendus esse commodi deserunt.
+     Lots of collab with panda / upcomingnear<br>
+
+     Transferring the first upcoming earnings to "PandaBank"<br>
+
+    Develop other tools on the dapp<br>
+
+    More soon on the Roadmap V2..<br>
             </p>
             <p class="timeline-subtitle">Early March</p>
           </div>
