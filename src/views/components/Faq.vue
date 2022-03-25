@@ -39,7 +39,7 @@ A project that uses 100% of the royalties to build and do what the community nee
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>When?</h2>
             <p>
- We plan to mint at the mid of April thanks to Enleap's amazing Launchpad.<br>
+ We plan to mint at the 20th April, thanks to Enleap's amazing Launchpad.<br>
  The Enleap team guarantees a smooth minting experience.
             </p>
           </li>
