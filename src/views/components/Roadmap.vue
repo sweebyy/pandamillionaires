@@ -15,7 +15,7 @@
 
      Build the Discord community and reward our most loyal members ✔<br>
             </p>
-            <p class="timeline-subtitle">Early February</p>
+            <p class="timeline-subtitle">Mid March</p>
           </div>
         </div>
         <div class="timeline-container warning">
@@ -34,7 +34,7 @@
 
        Give back 100% of royalties weekly to holder panda<br>
             </p>
-            <p class="timeline-subtitle">Mid February</p>
+            <p class="timeline-subtitle">Mid april</p>
           </div>
         </div>
         <div class="timeline-container warning">
@@ -50,7 +50,7 @@
 
          Marketing for the app<br>
             </p>
-            <p class="timeline-subtitle">Late February</p>
+            <p class="timeline-subtitle">Late May</p>
           </div>
         </div>
         <div class="timeline-container warning">
@@ -64,11 +64,11 @@
 
      Transferring the first upcoming earnings to "PandaBank"<br>
 
-    Develop other tools on the dapp<br>
+    Develop other tools on the App<br>
 
     More soon on the Roadmap V2..<br>
             </p>
-            <p class="timeline-subtitle">Early March</p>
+            <p class="timeline-subtitle">Mid June</p>
           </div>
         </div>
         
