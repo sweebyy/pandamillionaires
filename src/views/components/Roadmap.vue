@@ -26,13 +26,13 @@
             <h4 class="timeline-title"><span class="badge"> PHASE 2 : Implementation of the project</span></h4>
             <p>
 
-       Start the mint with Enleap !
+       Start the mint with Enleap !<br>
 
-       Implement Holder Verification
+       Implement Holder Verification<br>
 
-       Creation of the DAO Club and PandaBank (Millionaire Club)
+       Creation of the DAO Club and PandaBank (Millionaire Club)<br>
 
-       Give back 100% of royalties weekly to holder panda
+       Give back 100% of royalties weekly to holder panda<br>
             </p>
             <p class="timeline-subtitle">Mid February</p>
           </div>
