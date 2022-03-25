@@ -23,12 +23,16 @@
             <i class="fa fa-code" aria-hidden="true"></i>
           </div>
           <div class="timeline-body toReveal">
-            <h4 class="timeline-title"><span class="badge">Candy Machine</span></h4>
+            <h4 class="timeline-title"><span class="badge"> PHASE 2 : Implementation of the project</span></h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam
-              necessitatibus numquam earum ipsa fugiat veniam suscipit, officiis
-              repudiandae, eum recusandae neque dignissimos. Cum fugit
-              laboriosam culpa, repellendus esse commodi deserunt.
+
+       Start the mint with Enleap !
+
+       Implement Holder Verification
+
+       Creation of the DAO Club and PandaBank (Millionaire Club)
+
+       Give back 100% of royalties weekly to holder panda
             </p>
             <p class="timeline-subtitle">Mid February</p>
           </div>
