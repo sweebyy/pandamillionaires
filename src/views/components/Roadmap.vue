@@ -42,13 +42,15 @@
             <i class="fa fa-book" aria-hidden="true"></i>
           </div>
           <div class="timeline-body toReveal">
-            <h4 class="timeline-title"><span class="badge">PHASE 3 : Creation of the App</span></h4>
+            <h4 class="timeline-title"><span class="badge">PHASE 3 : Creation of the Jackpot !</span></h4>
             <p>
-         Creation of the app (upcomingnear.io)<br>
+        Creation of our own Jackpot<br>
 
-         Creation of the upcomingnear's discord Bot, for the holder<br>
+        Beta for holders<br>
 
-         Marketing for the app<br>
+        Added features for our jackpot site<br>
+
+        Marketing for the Jackpot<br>
             </p>
             <p class="timeline-subtitle">Late May</p>
           </div>
@@ -58,13 +60,11 @@
             <i class="fa fa-rocket" aria-hidden="true"></i>
           </div>
           <div class="timeline-body toReveal">
-            <h4 class="timeline-title"><span class="badge">PHASE 4 : More income for our holders</span></h4>
+            <h4 class="timeline-title"><span class="badge">PHASE 4 : More more more..</span></h4>
             <p>
-     Lots of collab with panda / upcomingnear<br>
+     Adding a new game<br>
 
-     Transferring the first upcoming earnings to "PandaBank"<br>
-
-    Develop other tools on the App<br>
+    Collaboration with big project<br>
 
     More soon on the Roadmap V2..<br>
             </p>
