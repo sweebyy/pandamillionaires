@@ -8,7 +8,7 @@
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>What is Panda Millionaires?</h2>
             <p>
-     <strong>Panda Millionaires</strong> is NFT series composed of 2222 hand-drawn combinations of red panda.<br>
+     <strong>Panda Millionaires</strong> is NFT series composed of 1200 hand-drawn combinations of red panda.<br>
      <strong>Panda Millionaires</strong> is the first NFT project on near to ever give back 100% of the rewards generated from secondary market sales to the holders.<br>
      <strong>Panda Millionaires</strong> is not only about NFT but mostly a DAO planning to build big things on Near. 
             </p>

@@ -29,61 +29,61 @@
 
                 <RarityItem
                 itemName="BulletProof Vest"
-                rarityPercentage="5" 
+                rarityPercentage="SOON" 
                 src="background-image:url('./img/brand/Bulletproof Vest.png');"
                 />
 
                 <RarityItem
                 itemName="Puffy Jacket"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Puffyjacket.png');"
                 />
 
                 <RarityItem
                 itemName="Roll Neck"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Rollneck.png');"
                 />
 
                 <RarityItem
                 itemName="Long Sleeve Shirt"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Long sleeve t-shirt.png');"
                 />
 
                 <RarityItem
                 itemName="Shirt"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Shirt.png');"
                 />
 
                 <RarityItem
                 itemName="Sleeveless Jacket"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/SlevelessJacket.png');"
                 />
                                
                 <RarityItem
                 itemName="Prison"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Prison.png');"
                 />
 
                 <RarityItem
                 itemName="Sweater"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Sweater.png');"
                 />
 
                <RarityItem
                 itemName="Tank top"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Tanktop.png');"
                 />
 
                 <RarityItem
                 itemName="Tie Shirt"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/Tie Shirt.png');"
                 />
             </div>
@@ -110,43 +110,43 @@
             <div class="row justify-content-center">
                 <RarityItem
                 itemName="Red"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/background/Red.png');"
                 />
 
                 <RarityItem
                 itemName="Purple"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/background/Purple.png');"
                 />
 
                 <RarityItem
                 itemName="Shade Blue"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/background/ShadeBlue.png');"
                 />
 
                 <RarityItem
                 itemName="Rainbow"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/background/rainbow.png');"
                 />
 
                 <RarityItem
                 itemName="Shade Green"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/background/ShadeGreen.png');"
                 />
 
                 <RarityItem
                 itemName="Olive"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/background/Olive.png');"
                 />
 
                 <RarityItem
                 itemName="Shade Orange"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/background/ShadeOrange.png');"
                 />
 
@@ -176,61 +176,61 @@
 
                 <RarityItem
                 itemName="Beanie"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Beanie.png');"
                 />
 
                 <RarityItem
                 itemName="Cap"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Cap.png');"
                 />
 
                 <RarityItem
                 itemName="Hat"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Hat.png');"
                 />
 
                <RarityItem
                 itemName="Cheddar"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Cheddar.png');"
                 />
 
                 <RarityItem
                 itemName="Helicopter Cap"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Helicopter cap.png');"
                 />
 
                 <RarityItem
                 itemName="Halo"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Halo.png');"
                 />
 
                 <RarityItem
                 itemName="Construction Helmet"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Construction helmet.png');"
                 />
 
                 <RarityItem
                 itemName="Christmas Hat"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Christmas hat.png');"
                 />
 
                 <RarityItem
                 itemName="Bob"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Bob.png');"
                 />
 
                 <RarityItem
                 itemName="Backwards cap"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/hat/Backwards cap.png');"
                 />
             </div>
@@ -264,61 +264,61 @@
 
                 <RarityItem
                 itemName="Cigarette"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/cigarette.png');"
                 />
 
                 <RarityItem
                 itemName="Disgrundtled"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/disgrundtled.png');"
                 />
 
                 <RarityItem
                 itemName="Happy"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/Happy.png');"
                 />
 
                 <RarityItem
                 itemName="Lollipop"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/Lollipop.png');"
                 />
 
                 <RarityItem
                 itemName="Rabbit"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/rabbit.png');"
                 />
 
                 <RarityItem
                 itemName="Sad"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/sad.png');"
                 />
 
                 <RarityItem
                 itemName="Screaming"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/screaming.png');"
                 />
 
                 <RarityItem
                 itemName="Smile With Tongue"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/smile with tongue.png');"
                 />
 
                 <RarityItem
                 itemName="Vampire"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/Vampire.png');"
                 />
 
                 <RarityItem
                 itemName="Wheat"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/smile/Wheat.png');"
                 />
             </div>
@@ -347,91 +347,91 @@
 
                 <RarityItem
                 itemName="Bezel Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Bezel Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Blazed Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Blazed Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Blue Laser Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Blue Laser Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Butterfly Bezel Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Butterfly bezel.png');"
                 />
 
                 <RarityItem
                 itemName="Deprived Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Deprived Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Happy Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Happy Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Kawaii Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Kawaii Eyes.png');"
                 />
 
                <RarityItem
                 itemName="Monocycle Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Monocycle Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Nasty Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Nasty Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Normal Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Normal Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Pirate Cache Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Pirate Cache Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Red Laser Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Red Laser Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Ski glasses"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Ski glasses.png');"
                 />
 
               <RarityItem
                 itemName="Stoned Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Stoned Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Tired Eyes"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Eyes/Tired Eyes.png');"
                 />
             </div>
@@ -456,49 +456,49 @@
             <div class="row justify-content-center">
                 <RarityItem
                 itemName="Dressing"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/Dressing.png');"
                 />
 
                 <RarityItem
                 itemName="Injury"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/Injury.png');"
                 />
 
                 <RarityItem
                 itemName="Piercing"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/piercing.png');"
                 />
 
                 <RarityItem
                 itemName="Scarf"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/Scarf.png');"
                 />
 
                 <RarityItem
                 itemName="Banana"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/Banana.png');"
                 />
 
                 <RarityItem
                 itemName="Septum"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/septum.png');"
                 />
 
                 <RarityItem
                 itemName="Tatoo Fuck"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/Tatoo Fuck.png');"
                 />
 
                 <RarityItem
                 itemName="Bell"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/Accessories/Bell.png');"
                 />
             </div>
