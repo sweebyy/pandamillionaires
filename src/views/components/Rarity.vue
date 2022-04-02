@@ -23,7 +23,7 @@
 
                 <RarityItem
                 itemName="Polo Shirt"
-                rarityPercentage="5"
+                rarityPercentage="SOON"
                 src="background-image:url('./img/brand/PoloShirt.png');"
                 />
 
