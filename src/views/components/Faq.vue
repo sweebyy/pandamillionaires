@@ -8,8 +8,8 @@
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>What is Panda Millionaires?</h2>
             <p>
-     <strong>Panda Millionaires</strong> is NFT series composed of 1200 hand-drawn combinations of red panda.<br>
-     <strong>Panda Millionaires</strong> is the first NFT project on near to ever give back 100% of the rewards generated from secondary market sales to the holders.<br>
+     <strong>Panda Millionaires</strong> is NFT series composed of 777 hand-drawn combinations of red panda.<br>
+     <strong>Panda Millionaires</strong> is the first NFT project on near which plans a jackpot players versus players<br>
      <strong>Panda Millionaires</strong> is not only about NFT but mostly a DAO planning to build big things on Near. 
             </p>
           </li>
@@ -21,7 +21,7 @@
             </h2>
             <p>
 If you hold at least one panda, you will benefit from the royalties that the project will generate. App, floor sweep, giveaway... Everything will be determined by the DAO in order to make the most of the holders.<br>
-A project that uses 100% of the royalties to build and do what the community needs and wants can really become something big. That's what we're clearly aiming for.
+A project that uses 50% of the royalties to build and do what the community needs and wants can really become something big. That's what we're clearly aiming for.
 
             </p>
           </li>
@@ -30,8 +30,8 @@ A project that uses 100% of the royalties to build and do what the community nee
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>What is the mint price?</h2>
             <p>
-              WL Mint : <strong>6 Near</strong><br>
-              Public Mint : <strong>7</strong> Near
+              WL Mint : <strong>3 Near</strong><br>
+              Public Mint : <strong>4</strong> Near
             </p>
           </li>
           <li class="toFlip">
@@ -39,7 +39,7 @@ A project that uses 100% of the royalties to build and do what the community nee
             <i class="arrow"></i>
             <h2><i class="fa fa-paw"></i>When?</h2>
             <p>
- We plan to mint at the 20th April, thanks to Enleap's amazing Launchpad.<br>
+ We plan to mint at the 30th April, thanks to Enleap's amazing Launchpad.<br>
  The Enleap team guarantees a smooth minting experience.
             </p>
           </li>
