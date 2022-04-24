@@ -491,7 +491,7 @@
                 />
 
                 <RarityItem
-                itemName="Tatoo Fuck"
+                itemName="Tattoo Fuck"
                 rarityPercentage="5"
                 src="background-image:url('./img/Accessories/Tatoo Fuck.png');"
                 />
