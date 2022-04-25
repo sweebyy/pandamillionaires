@@ -32,7 +32,7 @@
 
        Creation of the DAO Club and PandaBank (Millionaire Club)<br>
 
-       Give back 100% of royalties weekly to holder panda<br>
+       Give back 50% of royalties weekly to the DAO CLUB<br>
             </p>
             <p class="timeline-subtitle">Mid april</p>
           </div>
