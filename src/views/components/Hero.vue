@@ -68,7 +68,7 @@
               />
               <div class="button-container-1">
                 <span class="mas">Coming Soon</span>
-                <button id="work" type="button" name="Hover">Mint</button>
+                <button id="work" type="button" name="Hover" ahref="https://pandamillionaires.enleap.app">Mint</button>
               </div>
             </div>
 
