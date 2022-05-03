@@ -103,6 +103,28 @@
 
             <div class="row justify-content-center">
 
+
+
+                <RarityItem
+                itemName="Brown"
+                rarityPercentage="18"
+                src="background-image:url('./img/background/Brown.png');"
+                />
+
+
+                <RarityItem
+                itemName="Gray"
+                rarityPercentage="15"
+                src="background-image:url('./img/background/Gray.png');"
+                />
+
+
+                 <RarityItem
+                itemName="Olive"
+                rarityPercentage="15"
+                src="background-image:url('./img/background/Olive.png');"
+                />
+
                 <RarityItem
                 itemName="Purple"
                 rarityPercentage="10"
@@ -114,25 +136,6 @@
                 rarityPercentage="10"
                 src="background-image:url('./img/background/Pale Pink.png');"
                 />
-
-                <RarityItem
-                itemName="Gray"
-                rarityPercentage="15"
-                src="background-image:url('./img/background/Gray.png');"
-                />
-
-                <RarityItem
-                itemName="Brown"
-                rarityPercentage="18"
-                src="background-image:url('./img/background/Brown.png');"
-                />
-
-                <RarityItem
-                itemName="Olive"
-                rarityPercentage="15"
-                src="background-image:url('./img/background/Olive.png');"
-                />
-
 
 
                 <RarityItem
