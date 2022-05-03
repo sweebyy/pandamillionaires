@@ -25,7 +25,7 @@
                 <li class="nav-item" style="text-align: center;">
                     <button type="button" class="btn btn-primary" style="background-color: white;
     color: #ee7c19;
-    border-color: #ee7c19;"><i class="fa fa-paw"></i> Jackpot</button>
+    border-color: #ee7c19;"><i class="fa fa-paw"></i> Coinflip</button>
 
                 </li>
             </ul>
