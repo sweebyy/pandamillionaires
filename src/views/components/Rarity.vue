@@ -23,19 +23,19 @@
 
                 <RarityItem
                 itemName="Polo Shirt"
-                rarityPercentage="5"
+                rarityPercentage="7"
                 src="background-image:url('./img/brand/PoloShirt.png');"
                 />
 
                 <RarityItem
                 itemName="BulletProof Vest"
-                rarityPercentage="5" 
+                rarityPercentage="1" 
                 src="background-image:url('./img/brand/Bulletproof Vest.png');"
                 />
 
                 <RarityItem
                 itemName="Puffy Jacket"
-                rarityPercentage="5"
+                rarityPercentage="10"
                 src="background-image:url('./img/brand/Puffyjacket.png');"
                 />
 
@@ -47,32 +47,26 @@
 
                 <RarityItem
                 itemName="Long Sleeve Shirt"
-                rarityPercentage="5"
+                rarityPercentage="6"
                 src="background-image:url('./img/brand/Long sleeve t-shirt.png');"
                 />
 
                 <RarityItem
                 itemName="Shirt"
-                rarityPercentage="5"
+                rarityPercentage="15"
                 src="background-image:url('./img/brand/Shirt.png');"
                 />
 
                 <RarityItem
                 itemName="Sleeveless Jacket"
-                rarityPercentage="5"
+                rarityPercentage="15"
                 src="background-image:url('./img/brand/SlevelessJacket.png');"
                 />
                                
                 <RarityItem
-                itemName="Prison"
-                rarityPercentage="5"
+                itemName="Jail Jacket"
+                rarityPercentage="2"
                 src="background-image:url('./img/brand/Prison.png');"
-                />
-
-                <RarityItem
-                itemName="Sweater"
-                rarityPercentage="5"
-                src="background-image:url('./img/brand/Sweater.png');"
                 />
 
                <RarityItem
@@ -83,7 +77,7 @@
 
                 <RarityItem
                 itemName="Tie Shirt"
-                rarityPercentage="5"
+                rarityPercentage="3"
                 src="background-image:url('./img/brand/Tie Shirt.png');"
                 />
             </div>
