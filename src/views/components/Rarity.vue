@@ -190,16 +190,35 @@
 
             <div class="row justify-content-center">
 
+
                 <RarityItem
-                itemName="Beanie"
-                rarityPercentage="5"
-                src="background-image:url('./img/hat/Beanie.png');"
+                itemName="Backwards cap"
+                rarityPercentage="20"
+                src="background-image:url('./img/hat/Backwards cap.png');"
                 />
 
                 <RarityItem
                 itemName="Cap"
-                rarityPercentage="5"
+                rarityPercentage="18"
                 src="background-image:url('./img/hat/Cap.png');"
+                />
+
+                <RarityItem
+                itemName="Beanie"
+                rarityPercentage="12"
+                src="background-image:url('./img/hat/Beanie.png');"
+                />
+
+                <RarityItem
+                itemName="Bob"
+                rarityPercentage="10"
+                src="background-image:url('./img/hat/Bob.png');"
+                />
+
+                <RarityItem
+                itemName="Cap Pokemon"
+                rarityPercentage="8"
+                src="background-image:url('./img/hat/Cap Pokemon.png');"
                 />
 
                 <RarityItem
@@ -210,45 +229,36 @@
 
                <RarityItem
                 itemName="Cheddar"
-                rarityPercentage="5"
+                rarityPercentage="4"
                 src="background-image:url('./img/hat/Cheddar.png');"
                 />
 
                 <RarityItem
                 itemName="Helicopter Cap"
-                rarityPercentage="5"
+                rarityPercentage="4"
                 src="background-image:url('./img/hat/Helicopter cap.png');"
                 />
 
-                <RarityItem
-                itemName="Halo"
-                rarityPercentage="5"
-                src="background-image:url('./img/hat/Halo.png');"
-                />
 
                 <RarityItem
                 itemName="Construction Helmet"
-                rarityPercentage="5"
+                rarityPercentage="3"
                 src="background-image:url('./img/hat/Construction helmet.png');"
                 />
 
                 <RarityItem
                 itemName="Christmas Hat"
-                rarityPercentage="5"
+                rarityPercentage="3"
                 src="background-image:url('./img/hat/Christmas hat.png');"
                 />
 
                 <RarityItem
-                itemName="Bob"
-                rarityPercentage="5"
-                src="background-image:url('./img/hat/Bob.png');"
+                itemName="Halo"
+                rarityPercentage="1"
+                src="background-image:url('./img/hat/Halo.png');"
                 />
 
-                <RarityItem
-                itemName="Backwards cap"
-                rarityPercentage="5"
-                src="background-image:url('./img/hat/Backwards cap.png');"
-                />
+
             </div>
           </tab-pane>
 
