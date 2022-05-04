@@ -495,53 +495,64 @@
             </template>
 
             <div class="row justify-content-center">
-                <RarityItem
-                itemName="Dressing"
-                rarityPercentage="5"
-                src="background-image:url('./img/Accessories/Dressing.png');"
-                />
 
                 <RarityItem
-                itemName="Injury"
-                rarityPercentage="5"
-                src="background-image:url('./img/Accessories/Injury.png');"
+                itemName="None"
+                rarityPercentage="25"
+                src="background-image:url('./img/Accessories/None.png');"
                 />
 
-                <RarityItem
-                itemName="Piercing"
-                rarityPercentage="5"
-                src="background-image:url('./img/Accessories/piercing.png');"
+
+
+                 <RarityItem
+                itemName="Piercing Septum"
+                rarityPercentage="20"
+                src="background-image:url('./img/Accessories/Piercing Septum.png');"
                 />
 
-                <RarityItem
-                itemName="Scarf"
-                rarityPercentage="5"
-                src="background-image:url('./img/Accessories/Scarf.png');"
-                />
 
                 <RarityItem
-                itemName="Banana"
-                rarityPercentage="5"
-                src="background-image:url('./img/Accessories/Banana.png');"
-                />
-
-                <RarityItem
-                itemName="Septum"
-                rarityPercentage="5"
-                src="background-image:url('./img/Accessories/septum.png');"
+                itemName="Tinkerbell"
+                rarityPercentage="15"
+                src="background-image:url('./img/Accessories/Bell.png');"
                 />
 
                 <RarityItem
                 itemName="Tattoo Fuck"
-                rarityPercentage="5"
+                rarityPercentage="11"
                 src="background-image:url('./img/Accessories/Tatoo Fuck.png');"
                 />
 
                 <RarityItem
-                itemName="Bell"
-                rarityPercentage="5"
-                src="background-image:url('./img/Accessories/Bell.png');"
+                itemName="Tattoo NEAR"
+                rarityPercentage="10"
+                src="background-image:url('./img/Accessories/Tatoo Near.png');"
                 />
+                              
+                <RarityItem
+                itemName="Dressing"
+                rarityPercentage="7"
+                src="background-image:url('./img/Accessories/Dressing.png');"
+                />
+
+               <RarityItem
+                itemName="TinkerBell Tattoo Fuck"
+                rarityPercentage="5"
+                src="background-image:url('./img/Accessories/TinkerBell Tattoo Fuck.png');"
+                />
+
+                 <RarityItem
+                itemName="Injury"
+                rarityPercentage="4"
+                src="background-image:url('./img/Accessories/Injury.png');"
+                />
+
+                <RarityItem
+                itemName="Banana"
+                rarityPercentage="3"
+                src="background-image:url('./img/Accessories/Banana.png');"
+                />
+
             </div>
           </tab-pane>
         </card>
