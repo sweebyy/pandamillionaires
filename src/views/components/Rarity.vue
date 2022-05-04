@@ -372,64 +372,72 @@
             <div class="row justify-content-center">
 
                 <RarityItem
-                itemName="Bezel Eyes"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Bezel Eyes.png');"
+                itemName="Normal Eyes"
+                rarityPercentage="12"
+                src="background-image:url('./img/Eyes/Normal Eyes.png');"
                 />
 
+                
                 <RarityItem
                 itemName="Blazed Eyes"
-                rarityPercentage="5"
+                rarityPercentage="10"
                 src="background-image:url('./img/Eyes/Blazed Eyes.png');"
                 />
 
-                <RarityItem
-                itemName="Blue Laser Eyes"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Blue Laser Eyes.png');"
-                />
-
-                <RarityItem
-                itemName="Butterfly Bezel Eyes"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Butterfly bezel.png');"
-                />
 
                 <RarityItem
                 itemName="Deprived Eyes"
-                rarityPercentage="5"
+                rarityPercentage="10"
                 src="background-image:url('./img/Eyes/Deprived Eyes.png');"
                 />
 
                 <RarityItem
                 itemName="Happy Eyes"
-                rarityPercentage="5"
+                rarityPercentage="10"
                 src="background-image:url('./img/Eyes/Happy Eyes.png');"
                 />
 
+
+
                 <RarityItem
                 itemName="Kawaii Eyes"
-                rarityPercentage="5"
+                rarityPercentage="10"
                 src="background-image:url('./img/Eyes/Kawaii Eyes.png');"
                 />
 
+                <RarityItem
+                itemName="Not Happy Eyes"
+                rarityPercentage="10"
+                src="background-image:url('./img/Eyes/Nasty Eyes.png');"
+                />
+
+              <RarityItem
+                itemName="Stoned Eyes"
+                rarityPercentage="10"
+                src="background-image:url('./img/Eyes/Stoned Eyes.png');"
+                />
+
+
+
+
+                <RarityItem
+                itemName="Butterfly Bezel Eyes"
+                rarityPercentage="8"
+                src="background-image:url('./img/Eyes/Butterfly bezel.png');"
+                />
+
+                <RarityItem
+                itemName="Bezel Eyes"
+                rarityPercentage="6"
+                src="background-image:url('./img/Eyes/Bezel Eyes.png');"
+                />
+
                <RarityItem
-                itemName="Monocycle Eyes"
+                itemName="Unicycle Eyes"
                 rarityPercentage="5"
                 src="background-image:url('./img/Eyes/Monocycle Eyes.png');"
                 />
 
-                <RarityItem
-                itemName="Nasty Eyes"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Nasty Eyes.png');"
-                />
-
-                <RarityItem
-                itemName="Normal Eyes"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Normal Eyes.png');"
-                />
 
                 <RarityItem
                 itemName="Pirate Cache Eyes"
@@ -437,28 +445,24 @@
                 src="background-image:url('./img/Eyes/Pirate Cache Eyes.png');"
                 />
 
+
+                <RarityItem
+                itemName="Ski glasses"
+                rarityPercentage="2"
+                src="background-image:url('./img/Eyes/Ski glasses.png');"
+                />
+
+
                 <RarityItem
                 itemName="Red Laser Eyes"
-                rarityPercentage="5"
+                rarityPercentage="1"
                 src="background-image:url('./img/Eyes/Red Laser Eyes.png');"
                 />
 
                 <RarityItem
-                itemName="Ski glasses"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Ski glasses.png');"
-                />
-
-              <RarityItem
-                itemName="Stoned Eyes"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Stoned Eyes.png');"
-                />
-
-                <RarityItem
-                itemName="Tired Eyes"
-                rarityPercentage="5"
-                src="background-image:url('./img/Eyes/Tired Eyes.png');"
+                itemName="Green Laser Eyes"
+                rarityPercentage="1"
+                src="background-image:url('./img/Eyes/Green Laser Eyes.png');"
                 />
             </div>
           </tab-pane>
