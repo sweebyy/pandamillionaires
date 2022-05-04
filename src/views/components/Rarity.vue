@@ -284,14 +284,55 @@
             <div class="row justify-content-center">
                 <RarityItem
                 itemName="Bad"
-                rarityPercentage="5"
+                rarityPercentage="22"
                 src="background-image:url('./img/smile/bad.png');"
                 />
 
+
                 <RarityItem
-                itemName="Cigarette"
+                itemName="Happy"
+                rarityPercentage="22"
+                src="background-image:url('./img/smile/Happy.png');"
+                />
+
+
+
+                <RarityItem
+                itemName="Sad"
+                rarityPercentage="14"
+                src="background-image:url('./img/smile/sad.png');"
+                />
+
+                 <RarityItem
+                itemName="Kiss"
+                rarityPercentage="6"
+                src="background-image:url('./img/smile/Kiss.png');"
+                />
+
+                <RarityItem
+                itemName="Screaming"
+                rarityPercentage="6"
+                src="background-image:url('./img/smile/screaming.png');"
+                />
+
+
+                <RarityItem
+                itemName="Vampire"
+                rarityPercentage="6"
+                src="background-image:url('./img/smile/Vampire.png');"
+                />
+
+
+                <RarityItem
+                itemName="Lollipop"
                 rarityPercentage="5"
-                src="background-image:url('./img/smile/cigarette.png');"
+                src="background-image:url('./img/smile/Lollipop.png');"
+                />
+
+                <RarityItem
+                itemName="Wheat"
+                rarityPercentage="5"
+                src="background-image:url('./img/smile/Wheat.png');"
                 />
 
                 <RarityItem
@@ -301,51 +342,21 @@
                 />
 
                 <RarityItem
-                itemName="Happy"
-                rarityPercentage="5"
-                src="background-image:url('./img/smile/Happy.png');"
-                />
-
-                <RarityItem
-                itemName="Lollipop"
-                rarityPercentage="5"
-                src="background-image:url('./img/smile/Lollipop.png');"
-                />
-
-                <RarityItem
-                itemName="Rabbit"
-                rarityPercentage="5"
-                src="background-image:url('./img/smile/rabbit.png');"
-                />
-
-                <RarityItem
-                itemName="Sad"
-                rarityPercentage="5"
-                src="background-image:url('./img/smile/sad.png');"
-                />
-
-                <RarityItem
-                itemName="Screaming"
-                rarityPercentage="5"
-                src="background-image:url('./img/smile/screaming.png');"
-                />
-
-                <RarityItem
-                itemName="Smile With Tongue"
-                rarityPercentage="5"
+                itemName="Tongue"
+                rarityPercentage="3"
                 src="background-image:url('./img/smile/smile with tongue.png');"
                 />
 
                 <RarityItem
-                itemName="Vampire"
-                rarityPercentage="5"
-                src="background-image:url('./img/smile/Vampire.png');"
+                itemName="Rabbit"
+                rarityPercentage="2"
+                src="background-image:url('./img/smile/rabbit.png');"
                 />
-
+                
                 <RarityItem
-                itemName="Wheat"
-                rarityPercentage="5"
-                src="background-image:url('./img/smile/Wheat.png');"
+                itemName="Cigarette"
+                rarityPercentage="1"
+                src="background-image:url('./img/smile/cigarette.png');"
                 />
             </div>
           </tab-pane>
@@ -377,7 +388,7 @@
                 src="background-image:url('./img/Eyes/Normal Eyes.png');"
                 />
 
-                
+
                 <RarityItem
                 itemName="Blazed Eyes"
                 rarityPercentage="10"
